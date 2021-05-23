@@ -8,9 +8,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/tags/docs</loc>
+      <loc>/tags/docs</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -23,9 +23,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/feed.xml</loc>
+      <loc>/feed.xml</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -38,9 +38,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/</loc>
+      <loc>/</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -53,9 +53,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/tags/jekyll</loc>
+      <loc>/tags/jekyll</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -68,9 +68,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/tags/open-source</loc>
+      <loc>/tags/open-source</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -85,9 +85,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/posts</loc>
+      <loc>/posts</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -100,9 +100,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/projects</loc>
+      <loc>/projects</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -119,9 +119,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/robots.txt</loc>
+      <loc>/robots.txt</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -136,9 +136,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/sitemap.xml</loc>
+      <loc>/sitemap.xml</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -151,24 +151,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/tags/tag1</loc>
+      <loc>/tags/tag1</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.4</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/tags/tag2</loc>
-      
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -181,24 +166,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/tags/tag3</loc>
+      <loc>/tags/tag2</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.4</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/tags/tag4</loc>
-      
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -211,9 +181,39 @@
   
     
     <url>
-      <loc>http://localhost:4000/tags/tag5</loc>
+      <loc>/tags/tag3</loc>
       
-        <lastmod>2021-05-23T10:49:24+10:00</lastmod>
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.4</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/tags/tag4</loc>
+      
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.4</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/tags/tag5</loc>
+      
+        <lastmod>2021-05-23T11:14:45+10:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
