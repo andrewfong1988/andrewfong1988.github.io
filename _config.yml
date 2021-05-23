@@ -2,7 +2,7 @@ title: Andrew Fong # Shown in header on pages with full_logo: true
 short_logo: Andrew Fong # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   I am a TAS (Technology & Applied Sciences) teacher from the UK living and working in Sydney, Australia. I currently teach Manditory Technology (Years 7-8), IST (Years 9-10), IPT and SDD (Years 11-12).
-url: "andrewfong1988" # Site base URL
+url: "https://andrewfong1988.github.io/" # Site base URL
 
 author:
   name: Andew Fong
